@@ -1,0 +1,289 @@
+{
+  "/Users/33devas/Downloads/work-stations/adventex-tanstack/app/styles/globals.css": {
+    "file": "assets/globals-BUMEa2m7.css",
+    "src": "/Users/33devas/Downloads/work-stations/adventex-tanstack/app/styles/globals.css"
+  },
+  "_badge-BX8fJbc0.js": {
+    "file": "assets/badge-BX8fJbc0.js",
+    "name": "badge",
+    "imports": [
+      "_client-B42ABy-e.js"
+    ]
+  },
+  "_blur-fade-7fLI09do.js": {
+    "file": "assets/blur-fade-7fLI09do.js",
+    "name": "blur-fade",
+    "imports": [
+      "_client-B42ABy-e.js"
+    ]
+  },
+  "_calendar-BxthR7uV.js": {
+    "file": "assets/calendar-BxthR7uV.js",
+    "name": "calendar",
+    "imports": [
+      "_client-B42ABy-e.js"
+    ]
+  },
+  "_card-DSl79Sq_.js": {
+    "file": "assets/card-DSl79Sq_.js",
+    "name": "card",
+    "imports": [
+      "_client-B42ABy-e.js"
+    ]
+  },
+  "_chevron-right-jr-OsRoB.js": {
+    "file": "assets/chevron-right-jr-OsRoB.js",
+    "name": "chevron-right",
+    "imports": [
+      "_client-B42ABy-e.js"
+    ]
+  },
+  "_client-B42ABy-e.js": {
+    "file": "assets/client-B42ABy-e.js",
+    "name": "client",
+    "dynamicImports": [
+      "app/routes/contact.tsx?tsr-split",
+      "app/routes/about.tsx?tsr-split",
+      "app/routes/about.tsx?tsr-split",
+      "app/routes/index.tsx?tsr-split",
+      "app/routes/tours/index.tsx?tsr-split",
+      "app/routes/tours/index.tsx?tsr-split",
+      "app/routes/blogs/index.tsx?tsr-split",
+      "app/routes/blogs/index.tsx?tsr-split",
+      "app/routes/tours/$tourId.tsx?tsr-split",
+      "app/routes/blogs/$blogId.tsx?tsr-split"
+    ],
+    "assets": [
+      "assets/kanit-thai-100-normal-MVGvUIAQ.woff2",
+      "assets/kanit-thai-100-normal-CJ5enLc7.woff",
+      "assets/kanit-thai-200-normal-DW7yNy6Q.woff2",
+      "assets/kanit-thai-200-normal-nA0zF8Cg.woff",
+      "assets/kanit-thai-300-normal-BZx2gboJ.woff2",
+      "assets/kanit-thai-300-normal-9B7BJcjo.woff",
+      "assets/kanit-thai-400-normal-C27eAtU1.woff2",
+      "assets/kanit-thai-400-normal-Hyy0rknX.woff",
+      "assets/kanit-thai-500-normal-BDuJ4o_K.woff2",
+      "assets/kanit-thai-500-normal-DpGKNmIS.woff",
+      "assets/kanit-thai-600-normal-B951hBRC.woff2",
+      "assets/kanit-thai-600-normal-BXxKBrx-.woff",
+      "assets/kanit-thai-700-normal-lMuxtNHC.woff2",
+      "assets/kanit-thai-700-normal-CZrRvC_H.woff",
+      "assets/kanit-thai-800-normal-B0cvSpRm.woff2",
+      "assets/kanit-thai-800-normal-BAaQprJW.woff",
+      "assets/kanit-thai-900-normal-BF0Ii47I.woff2",
+      "assets/kanit-thai-900-normal-DBagMaJD.woff",
+      "assets/globals-BUMEa2m7.css"
+    ]
+  },
+  "_index-ByNaFnmF.js": {
+    "file": "assets/index-ByNaFnmF.js",
+    "name": "index",
+    "imports": [
+      "_client-B42ABy-e.js",
+      "_chevron-right-jr-OsRoB.js"
+    ]
+  },
+  "_index-Mi6CWLfl.js": {
+    "file": "assets/index-Mi6CWLfl.js",
+    "name": "index",
+    "imports": [
+      "_client-B42ABy-e.js"
+    ]
+  },
+  "_page-hero-CSAqPvjb.js": {
+    "file": "assets/page-hero-CSAqPvjb.js",
+    "name": "page-hero",
+    "imports": [
+      "_client-B42ABy-e.js"
+    ]
+  },
+  "_select-Rv5xCkR_.js": {
+    "file": "assets/select-Rv5xCkR_.js",
+    "name": "select",
+    "imports": [
+      "_client-B42ABy-e.js",
+      "_index-ByNaFnmF.js"
+    ]
+  },
+  "_use-toast-58QX4mOB.js": {
+    "file": "assets/use-toast-58QX4mOB.js",
+    "name": "use-toast",
+    "imports": [
+      "_client-B42ABy-e.js"
+    ]
+  },
+  "app/routes/about.tsx?tsr-split": {
+    "file": "assets/about-DRMUEk2-.js",
+    "name": "about",
+    "src": "app/routes/about.tsx?tsr-split",
+    "isDynamicEntry": true,
+    "imports": [
+      "_client-B42ABy-e.js",
+      "_index-Mi6CWLfl.js",
+      "_card-DSl79Sq_.js",
+      "_blur-fade-7fLI09do.js",
+      "_page-hero-CSAqPvjb.js"
+    ]
+  },
+  "app/routes/blogs/$blogId.tsx?tsr-split": {
+    "file": "assets/_blogId-M2BXOh_z.js",
+    "name": "_blogId",
+    "src": "app/routes/blogs/$blogId.tsx?tsr-split",
+    "isDynamicEntry": true,
+    "imports": [
+      "_client-B42ABy-e.js",
+      "_badge-BX8fJbc0.js",
+      "_select-Rv5xCkR_.js",
+      "_use-toast-58QX4mOB.js",
+      "_index-ByNaFnmF.js",
+      "_chevron-right-jr-OsRoB.js"
+    ]
+  },
+  "app/routes/blogs/index.tsx?tsr-split": {
+    "file": "assets/index-Dzk7Phj7.js",
+    "name": "index",
+    "src": "app/routes/blogs/index.tsx?tsr-split",
+    "isDynamicEntry": true,
+    "imports": [
+      "_client-B42ABy-e.js",
+      "_index-Mi6CWLfl.js",
+      "_badge-BX8fJbc0.js",
+      "_card-DSl79Sq_.js",
+      "_calendar-BxthR7uV.js"
+    ]
+  },
+  "app/routes/contact.tsx?tsr-split": {
+    "file": "assets/contact-BNDyAio6.js",
+    "name": "contact",
+    "src": "app/routes/contact.tsx?tsr-split",
+    "isDynamicEntry": true,
+    "imports": [
+      "_client-B42ABy-e.js",
+      "_use-toast-58QX4mOB.js",
+      "_blur-fade-7fLI09do.js"
+    ]
+  },
+  "app/routes/index.tsx?tsr-split": {
+    "file": "assets/index-B-OYFYQ-.js",
+    "name": "index",
+    "src": "app/routes/index.tsx?tsr-split",
+    "isDynamicEntry": true,
+    "imports": [
+      "_client-B42ABy-e.js",
+      "_card-DSl79Sq_.js",
+      "_blur-fade-7fLI09do.js",
+      "_badge-BX8fJbc0.js",
+      "_index-ByNaFnmF.js",
+      "_calendar-BxthR7uV.js",
+      "_chevron-right-jr-OsRoB.js"
+    ]
+  },
+  "app/routes/tours/$tourId.tsx?tsr-split": {
+    "file": "assets/_tourId-DnkQMoF7.js",
+    "name": "_tourId",
+    "src": "app/routes/tours/$tourId.tsx?tsr-split",
+    "isDynamicEntry": true,
+    "imports": [
+      "_client-B42ABy-e.js",
+      "_badge-BX8fJbc0.js",
+      "_select-Rv5xCkR_.js",
+      "_use-toast-58QX4mOB.js",
+      "_index-ByNaFnmF.js",
+      "_chevron-right-jr-OsRoB.js"
+    ]
+  },
+  "app/routes/tours/index.tsx?tsr-split": {
+    "file": "assets/index-jVEys91j.js",
+    "name": "index",
+    "src": "app/routes/tours/index.tsx?tsr-split",
+    "isDynamicEntry": true,
+    "imports": [
+      "_client-B42ABy-e.js",
+      "_index-Mi6CWLfl.js",
+      "_chevron-right-jr-OsRoB.js",
+      "_page-hero-CSAqPvjb.js",
+      "_card-DSl79Sq_.js"
+    ]
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-100-normal.woff": {
+    "file": "assets/kanit-thai-100-normal-CJ5enLc7.woff",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-100-normal.woff"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-100-normal.woff2": {
+    "file": "assets/kanit-thai-100-normal-MVGvUIAQ.woff2",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-100-normal.woff2"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-200-normal.woff": {
+    "file": "assets/kanit-thai-200-normal-nA0zF8Cg.woff",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-200-normal.woff"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-200-normal.woff2": {
+    "file": "assets/kanit-thai-200-normal-DW7yNy6Q.woff2",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-200-normal.woff2"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-300-normal.woff": {
+    "file": "assets/kanit-thai-300-normal-9B7BJcjo.woff",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-300-normal.woff"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-300-normal.woff2": {
+    "file": "assets/kanit-thai-300-normal-BZx2gboJ.woff2",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-300-normal.woff2"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-400-normal.woff": {
+    "file": "assets/kanit-thai-400-normal-Hyy0rknX.woff",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-400-normal.woff"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-400-normal.woff2": {
+    "file": "assets/kanit-thai-400-normal-C27eAtU1.woff2",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-400-normal.woff2"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-500-normal.woff": {
+    "file": "assets/kanit-thai-500-normal-DpGKNmIS.woff",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-500-normal.woff"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-500-normal.woff2": {
+    "file": "assets/kanit-thai-500-normal-BDuJ4o_K.woff2",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-500-normal.woff2"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-600-normal.woff": {
+    "file": "assets/kanit-thai-600-normal-BXxKBrx-.woff",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-600-normal.woff"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-600-normal.woff2": {
+    "file": "assets/kanit-thai-600-normal-B951hBRC.woff2",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-600-normal.woff2"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-700-normal.woff": {
+    "file": "assets/kanit-thai-700-normal-CZrRvC_H.woff",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-700-normal.woff"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-700-normal.woff2": {
+    "file": "assets/kanit-thai-700-normal-lMuxtNHC.woff2",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-700-normal.woff2"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-800-normal.woff": {
+    "file": "assets/kanit-thai-800-normal-BAaQprJW.woff",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-800-normal.woff"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-800-normal.woff2": {
+    "file": "assets/kanit-thai-800-normal-B0cvSpRm.woff2",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-800-normal.woff2"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-900-normal.woff": {
+    "file": "assets/kanit-thai-900-normal-DBagMaJD.woff",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-900-normal.woff"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-900-normal.woff2": {
+    "file": "assets/kanit-thai-900-normal-BF0Ii47I.woff2",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-900-normal.woff2"
+  },
+  "virtual:$vinxi/handler/client": {
+    "file": "assets/client-D_r--B-J.js",
+    "name": "client",
+    "src": "virtual:$vinxi/handler/client",
+    "isEntry": true,
+    "imports": [
+      "_client-B42ABy-e.js"
+    ]
+  }
+}

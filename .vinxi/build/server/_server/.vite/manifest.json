@@ -1,0 +1,57 @@
+{
+  "_card.mjs": {
+    "file": "card.mjs",
+    "name": "card"
+  },
+  "_input.mjs": {
+    "file": "input.mjs",
+    "name": "input",
+    "imports": [
+      "_card.mjs"
+    ]
+  },
+  "_page-hero.mjs": {
+    "file": "page-hero.mjs",
+    "name": "page-hero",
+    "imports": [
+      "_card.mjs"
+    ]
+  },
+  "app/routes/about.tsx?tsr-split": {
+    "file": "c_9xkq4f.mjs",
+    "name": "c_9xkq4f",
+    "src": "app/routes/about.tsx?tsr-split",
+    "isEntry": true,
+    "imports": [
+      "_card.mjs",
+      "_page-hero.mjs"
+    ]
+  },
+  "app/routes/blogs/index.tsx?tsr-split": {
+    "file": "c_3fv3ai.mjs",
+    "name": "c_3fv3ai",
+    "src": "app/routes/blogs/index.tsx?tsr-split",
+    "isEntry": true,
+    "imports": [
+      "_card.mjs",
+      "_input.mjs"
+    ]
+  },
+  "app/routes/tours/index.tsx?tsr-split": {
+    "file": "c_1bbm5aw.mjs",
+    "name": "c_1bbm5aw",
+    "src": "app/routes/tours/index.tsx?tsr-split",
+    "isEntry": true,
+    "imports": [
+      "_card.mjs",
+      "_input.mjs",
+      "_page-hero.mjs"
+    ]
+  },
+  "virtual:$vinxi/handler/server": {
+    "file": "entry.mjs",
+    "name": "entry",
+    "src": "virtual:$vinxi/handler/server",
+    "isEntry": true
+  }
+}

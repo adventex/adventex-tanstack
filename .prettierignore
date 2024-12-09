@@ -1,0 +1,28 @@
+# Ignore artifacts:
+build
+coverage
+
+# Build output directories
+.output
+.vinxi
+dist
+
+# Cache directories
+.cache
+node_modules
+
+# Generated files
+*.gen.ts
+*.d.ts
+
+# Map files
+*.map
+
+# Package manager files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
+
+# Environment files
+.env*

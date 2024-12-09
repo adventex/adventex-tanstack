@@ -1,0 +1,261 @@
+{
+  "/Users/33devas/Downloads/work-stations/adventex-tanstack/app/styles/globals.css": {
+    "file": "assets/globals-BUMEa2m7.css",
+    "src": "/Users/33devas/Downloads/work-stations/adventex-tanstack/app/styles/globals.css"
+  },
+  "_badge-DPD-9gux.js": {
+    "file": "assets/badge-DPD-9gux.js",
+    "name": "badge",
+    "imports": [
+      "_ssr-Dg2tEgjp.js"
+    ]
+  },
+  "_blur-fade-CEpGLh_7.js": {
+    "file": "assets/blur-fade-CEpGLh_7.js",
+    "name": "blur-fade"
+  },
+  "_calendar-BG4W8niy.js": {
+    "file": "assets/calendar-BG4W8niy.js",
+    "name": "calendar",
+    "imports": [
+      "_ssr-Dg2tEgjp.js"
+    ]
+  },
+  "_card-DkDznRDU.js": {
+    "file": "assets/card-DkDznRDU.js",
+    "name": "card",
+    "imports": [
+      "_ssr-Dg2tEgjp.js"
+    ]
+  },
+  "_index-2e5SzYaF.js": {
+    "file": "assets/index-2e5SzYaF.js",
+    "name": "index",
+    "imports": [
+      "_ssr-Dg2tEgjp.js"
+    ]
+  },
+  "_page-hero-CzNFErjx.js": {
+    "file": "assets/page-hero-CzNFErjx.js",
+    "name": "page-hero",
+    "imports": [
+      "_ssr-Dg2tEgjp.js"
+    ]
+  },
+  "_select-Bj-GuSd9.js": {
+    "file": "assets/select-Bj-GuSd9.js",
+    "name": "select",
+    "imports": [
+      "_ssr-Dg2tEgjp.js"
+    ]
+  },
+  "_ssr-Dg2tEgjp.js": {
+    "file": "assets/ssr-Dg2tEgjp.js",
+    "name": "ssr",
+    "dynamicImports": [
+      "app/routes/contact.tsx?tsr-split",
+      "app/routes/about.tsx?tsr-split",
+      "app/routes/about.tsx?tsr-split",
+      "app/routes/index.tsx?tsr-split",
+      "app/routes/tours/index.tsx?tsr-split",
+      "app/routes/tours/index.tsx?tsr-split",
+      "app/routes/blogs/index.tsx?tsr-split",
+      "app/routes/blogs/index.tsx?tsr-split",
+      "app/routes/tours/$tourId.tsx?tsr-split",
+      "app/routes/blogs/$blogId.tsx?tsr-split"
+    ],
+    "assets": [
+      "assets/kanit-thai-100-normal-MVGvUIAQ.woff2",
+      "assets/kanit-thai-100-normal-CJ5enLc7.woff",
+      "assets/kanit-thai-200-normal-DW7yNy6Q.woff2",
+      "assets/kanit-thai-200-normal-nA0zF8Cg.woff",
+      "assets/kanit-thai-300-normal-BZx2gboJ.woff2",
+      "assets/kanit-thai-300-normal-9B7BJcjo.woff",
+      "assets/kanit-thai-400-normal-C27eAtU1.woff2",
+      "assets/kanit-thai-400-normal-Hyy0rknX.woff",
+      "assets/kanit-thai-500-normal-BDuJ4o_K.woff2",
+      "assets/kanit-thai-500-normal-DpGKNmIS.woff",
+      "assets/kanit-thai-600-normal-B951hBRC.woff2",
+      "assets/kanit-thai-600-normal-BXxKBrx-.woff",
+      "assets/kanit-thai-700-normal-lMuxtNHC.woff2",
+      "assets/kanit-thai-700-normal-CZrRvC_H.woff",
+      "assets/kanit-thai-800-normal-B0cvSpRm.woff2",
+      "assets/kanit-thai-800-normal-BAaQprJW.woff",
+      "assets/kanit-thai-900-normal-BF0Ii47I.woff2",
+      "assets/kanit-thai-900-normal-DBagMaJD.woff",
+      "assets/globals-BUMEa2m7.css"
+    ]
+  },
+  "_use-toast-CYhUVph2.js": {
+    "file": "assets/use-toast-CYhUVph2.js",
+    "name": "use-toast"
+  },
+  "app/routes/about.tsx?tsr-split": {
+    "file": "assets/about-BqKYHHhD.js",
+    "name": "about",
+    "src": "app/routes/about.tsx?tsr-split",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-2e5SzYaF.js",
+      "_card-DkDznRDU.js",
+      "_blur-fade-CEpGLh_7.js",
+      "_page-hero-CzNFErjx.js",
+      "_ssr-Dg2tEgjp.js"
+    ]
+  },
+  "app/routes/blogs/$blogId.tsx?tsr-split": {
+    "file": "assets/_blogId-BxHXRZr1.js",
+    "name": "_blogId",
+    "src": "app/routes/blogs/$blogId.tsx?tsr-split",
+    "isDynamicEntry": true,
+    "imports": [
+      "_badge-DPD-9gux.js",
+      "_ssr-Dg2tEgjp.js",
+      "_select-Bj-GuSd9.js",
+      "_use-toast-CYhUVph2.js",
+      "_calendar-BG4W8niy.js"
+    ]
+  },
+  "app/routes/blogs/index.tsx?tsr-split": {
+    "file": "assets/index-8ppc5UHZ.js",
+    "name": "index",
+    "src": "app/routes/blogs/index.tsx?tsr-split",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-2e5SzYaF.js",
+      "_ssr-Dg2tEgjp.js",
+      "_badge-DPD-9gux.js",
+      "_card-DkDznRDU.js"
+    ]
+  },
+  "app/routes/contact.tsx?tsr-split": {
+    "file": "assets/contact-jtLj_M2M.js",
+    "name": "contact",
+    "src": "app/routes/contact.tsx?tsr-split",
+    "isDynamicEntry": true,
+    "imports": [
+      "_use-toast-CYhUVph2.js",
+      "_ssr-Dg2tEgjp.js",
+      "_blur-fade-CEpGLh_7.js"
+    ]
+  },
+  "app/routes/index.tsx?tsr-split": {
+    "file": "assets/index-BcaqQp-Y.js",
+    "name": "index",
+    "src": "app/routes/index.tsx?tsr-split",
+    "isDynamicEntry": true,
+    "imports": [
+      "_card-DkDznRDU.js",
+      "_ssr-Dg2tEgjp.js",
+      "_badge-DPD-9gux.js",
+      "_blur-fade-CEpGLh_7.js",
+      "_calendar-BG4W8niy.js"
+    ]
+  },
+  "app/routes/tours/$tourId.tsx?tsr-split": {
+    "file": "assets/_tourId-BGxO_fRW.js",
+    "name": "_tourId",
+    "src": "app/routes/tours/$tourId.tsx?tsr-split",
+    "isDynamicEntry": true,
+    "imports": [
+      "_ssr-Dg2tEgjp.js",
+      "_badge-DPD-9gux.js",
+      "_select-Bj-GuSd9.js",
+      "_use-toast-CYhUVph2.js",
+      "_calendar-BG4W8niy.js"
+    ]
+  },
+  "app/routes/tours/index.tsx?tsr-split": {
+    "file": "assets/index-IMqa8d57.js",
+    "name": "index",
+    "src": "app/routes/tours/index.tsx?tsr-split",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-2e5SzYaF.js",
+      "_ssr-Dg2tEgjp.js",
+      "_page-hero-CzNFErjx.js",
+      "_card-DkDznRDU.js"
+    ]
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-100-normal.woff": {
+    "file": "assets/kanit-thai-100-normal-CJ5enLc7.woff",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-100-normal.woff"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-100-normal.woff2": {
+    "file": "assets/kanit-thai-100-normal-MVGvUIAQ.woff2",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-100-normal.woff2"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-200-normal.woff": {
+    "file": "assets/kanit-thai-200-normal-nA0zF8Cg.woff",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-200-normal.woff"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-200-normal.woff2": {
+    "file": "assets/kanit-thai-200-normal-DW7yNy6Q.woff2",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-200-normal.woff2"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-300-normal.woff": {
+    "file": "assets/kanit-thai-300-normal-9B7BJcjo.woff",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-300-normal.woff"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-300-normal.woff2": {
+    "file": "assets/kanit-thai-300-normal-BZx2gboJ.woff2",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-300-normal.woff2"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-400-normal.woff": {
+    "file": "assets/kanit-thai-400-normal-Hyy0rknX.woff",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-400-normal.woff"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-400-normal.woff2": {
+    "file": "assets/kanit-thai-400-normal-C27eAtU1.woff2",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-400-normal.woff2"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-500-normal.woff": {
+    "file": "assets/kanit-thai-500-normal-DpGKNmIS.woff",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-500-normal.woff"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-500-normal.woff2": {
+    "file": "assets/kanit-thai-500-normal-BDuJ4o_K.woff2",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-500-normal.woff2"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-600-normal.woff": {
+    "file": "assets/kanit-thai-600-normal-BXxKBrx-.woff",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-600-normal.woff"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-600-normal.woff2": {
+    "file": "assets/kanit-thai-600-normal-B951hBRC.woff2",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-600-normal.woff2"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-700-normal.woff": {
+    "file": "assets/kanit-thai-700-normal-CZrRvC_H.woff",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-700-normal.woff"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-700-normal.woff2": {
+    "file": "assets/kanit-thai-700-normal-lMuxtNHC.woff2",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-700-normal.woff2"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-800-normal.woff": {
+    "file": "assets/kanit-thai-800-normal-BAaQprJW.woff",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-800-normal.woff"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-800-normal.woff2": {
+    "file": "assets/kanit-thai-800-normal-B0cvSpRm.woff2",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-800-normal.woff2"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-900-normal.woff": {
+    "file": "assets/kanit-thai-900-normal-DBagMaJD.woff",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-900-normal.woff"
+  },
+  "node_modules/@fontsource/kanit/files/kanit-thai-900-normal.woff2": {
+    "file": "assets/kanit-thai-900-normal-BF0Ii47I.woff2",
+    "src": "node_modules/@fontsource/kanit/files/kanit-thai-900-normal.woff2"
+  },
+  "virtual:$vinxi/handler/ssr": {
+    "file": "ssr.js",
+    "name": "ssr",
+    "src": "virtual:$vinxi/handler/ssr",
+    "isEntry": true,
+    "imports": [
+      "_ssr-Dg2tEgjp.js"
+    ]
+  }
+}
